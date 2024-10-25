@@ -1,0 +1,26 @@
+# Binaries for programs and executables
+*.exe
+*.out
+*.app
+
+# Vendor directory if dependencies are managed outside the project (e.g., by Go modules)
+vendor/
+
+# Go build artifacts
+*.log
+*.test
+*.prof
+*.coverprofile
+*.cov
+
+# Environment variable file
+.env
+
+# IDE/editor configurations and system files
+.vscode/
+.idea/
+.DS_Store
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
